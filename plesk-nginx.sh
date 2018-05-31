@@ -267,6 +267,7 @@ fi
  --add-module=/usr/local/src/srcache-nginx-module  \
  --add-module=/usr/local/src/set-misc-nginx-module  \
  --add-module=/usr/local/src/ngx_http_redis   \
+ --add-module=/usr/share/passenger/ngx_http_passenger_module \
  --add-module=/usr/local/src/ngx_brotli  \
  --add-module=/usr/local/src/ngx_http_auth_pam_module \
  $ngx_pagespeed \
